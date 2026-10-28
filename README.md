@@ -8,7 +8,7 @@
   <a href="mailto:a7medessam710@gmail.com"><img src="assets/btn-email.svg" alt="Email me" height="44"></a>
 </p>
 
-I'm a computer engineering graduate based in Giza, Egypt. I build AI systems end to end: the model, the API around it, and an interface people can actually use. My work so far covers computer vision, and retrieval-augmented generation (RAG) with local LLMs.
+
 
 ## Selected projects
 
